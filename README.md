@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sotiri7
+- 👀 I’m interested in ...Programmation of games and apps
+- 🌱 I’m currently learning ... C# , Python
